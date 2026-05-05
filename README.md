@@ -2,6 +2,14 @@
 
 A web-based Student Information System built using PHP, MySQL (XAMPP), HTML, and CSS. It provides role-based access for Students and Teachers to manage academic data like attendance and marks.
 
+### 📄 License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![PHP](https://img.shields.io/badge/PHP-Backend-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![XAMPP](https://img.shields.io/badge/XAMPP-Server-red)
+
+This project is for academic purposes only.
+
 ---
 
 ## 🚀 Features
@@ -206,7 +214,3 @@ The system provides a centralized, secure, and efficient way to manage student d
 B.E Computer Science and Design
 
 ---
-
-## 📄 License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-This project is for academic purposes only.
