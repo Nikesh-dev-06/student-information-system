@@ -208,5 +208,5 @@ B.E Computer Science and Design
 ---
 
 ## 📄 License
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 This project is for academic purposes only.
