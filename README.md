@@ -1,4 +1,4 @@
-📘 Student Information System
+**📘 Student Information System**
 
 A web-based Student Information System built using PHP, MySQL (XAMPP), HTML, and CSS.
 It provides role-based access for Students and Teachers to manage academic data like attendance and marks.
